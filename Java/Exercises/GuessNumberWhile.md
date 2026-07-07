@@ -56,7 +56,7 @@ public class GuessingWhile {
         }
 
 
-
+1
 /** do...while版本的猜数字小游戏 */
 import java.util.Scanner;
 public class GuessingDoWhile {
