@@ -98,7 +98,7 @@ public class ContinueDemo {
                 System.out.println(num+"*9="+num*9);
             }
         }
-1
+
         /*
             执行过程：
             num=1   1*9=9
