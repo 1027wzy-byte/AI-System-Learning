@@ -462,7 +462,7 @@ dog.lookHome();
 
 
 ## 代码
-
+1
 ```
 /** 多态的演示 */
 public class PolymorphicDemo {
