@@ -475,7 +475,7 @@ public class PolymorphicDemo {
 //        //o2.name/age/color/eat()/drink()
 //        Swim o3 = new Dog("小黑",2,"黑");//狗会游泳------向上造型
 //        //o3.swim();
-1
+
         //演示向上造型(多态)的第1点应用
         Master master = new Master();
         Dog dog = new Dog("小黑",2,"黑");
