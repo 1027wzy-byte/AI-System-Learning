@@ -39,7 +39,7 @@ StaticVar.b
 例如：
 
 ```java
-StaticMethod.plus(3,5);
+StaticMethod.plus(3,5);1
 ```
 
 注意：
