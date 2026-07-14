@@ -183,7 +183,7 @@ class Loo{
     //public static final int NUM;//编译错误，变量必须声明同时初始化
     public static int num = 5;//静态变量
     public static final int COUNT = 5;//常量(静态常量)
-}
+}1
 ```
 
 ---
