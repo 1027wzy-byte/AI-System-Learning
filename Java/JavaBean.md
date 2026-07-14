@@ -120,7 +120,7 @@ public class Point {//点
         this.y = y;
     }
 
-}1
+}
 ```
 
 ---

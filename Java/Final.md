@@ -106,7 +106,7 @@ final class Hoo{}
 //class Ioo extends Hoo{}//编译错误，final修饰的类不能被继承
 class Joo{}
 final class Koo extends Joo{}//正确，不能当爸，但是能当儿子
-1
+
 ```
 
 ---
